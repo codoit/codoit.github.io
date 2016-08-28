@@ -456,7 +456,8 @@ header {
 }
 
 header h1,
-header h1 a {
+header h1 a,
+header h1 a:hover {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
