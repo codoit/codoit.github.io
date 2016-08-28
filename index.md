@@ -1,6 +1,6 @@
 ---
 layout: page
-color: green
+color: purple
 
 title: CoDoIt
 tagline: Alone, we go faster, together we go farther
