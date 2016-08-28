@@ -455,7 +455,8 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
-header h1 {
+header h1,
+header h1 a {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
@@ -517,10 +518,9 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
-  width: 134px;
+  width: 206px;
   height: 58px;
   padding-top: 22px;
-  padding-left: 68px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
@@ -538,8 +538,7 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 138px;
-  padding-left: 64px;
+  width: 210px;
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button-blue.png) 0 0 no-repeat;

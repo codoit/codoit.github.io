@@ -455,7 +455,8 @@ header {
   border-bottom: solid 1px #27a15d;
 }
 
-header h1 {
+header h1,
+header h1 a {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
