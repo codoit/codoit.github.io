@@ -7,9 +7,23 @@ layout: default
 </section>
 
 <aside id="sidebar">
-    <a href="cothinkit.html" class="button">CoThinkIt</a>
-    <a href="comeanit.html" class="button">CoMeanIt</a>
-    <a href="cofundit.html" class="button">CoFundIt</a>
+    {% if page.title == "CoThinkIt" %}
+        <a href="index.html" class="button">CoDoIt</a>
+    {% else %}
+        <a href="cothinkit.html" class="button">CoThinkIt</a>
+    {% endif %}
+
+    {% if page.title == "CoMeanIt" %}
+        <a href="index.html" class="button">CoDoIt</a>
+    {% else %}
+        <a href="comeanit.html" class="button">CoMeanIt</a>
+    {% endif %}
+
+    {% if page.title == "CoFundIt" %}
+        <a href="index.html" class="button">CoDoIt</a>
+    {% else %}
+        <a href="cofundit.html" class="button">CoFundIt</a>
+    {% endif %}
 
     <p>
         This website is based on a modified Architect theme by
