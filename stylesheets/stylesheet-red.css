@@ -519,6 +519,7 @@ aside#sidebar p.repo-owner a {
 
 a.button {
   width: 206px;
+  text-align: center;
   height: 58px;
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
