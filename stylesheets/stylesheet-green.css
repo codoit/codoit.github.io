@@ -441,18 +441,18 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: #28d079;
 }
 a:hover {
-  color: #2268b2;
+  color: #22b268;
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: #2ecf7b url(../images/header-bg-green.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #27a15d;
 }
 
 header h1 {
@@ -473,7 +473,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #9dffdc;
   letter-spacing: 0;
 }
 
@@ -517,10 +517,10 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
-  width: 134px;
+  width: 206px;
+  text-align: center;
   height: 58px;
   padding-top: 22px;
-  padding-left: 68px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
@@ -538,11 +538,10 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 138px;
-  padding-left: 64px;
+  width: 210px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button-green.png) 0 0 no-repeat;
 }
 
 code, pre {
@@ -554,8 +553,8 @@ code, pre {
 
 code {
   padding: 0 3px;
-  background-color: #f2f8fc;
-  border: solid 1px #dbe7f3;
+  background-color: #f2fcf8;
+  border: solid 1px #dbf3e7;
 }
 
 pre {
@@ -625,7 +624,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #9ddcff;
+  color: #9dffdc;
   content: "/";
 }
 
@@ -641,7 +640,7 @@ form {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #9ddcff;
+  color: #9dffdc;
 }
 
 #main-content h3 {
@@ -658,7 +657,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #9dffdc;
 }
 
 #main-content h4 {
@@ -674,7 +673,7 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #9dffdc;
 }
 
 #main-content h5 {
@@ -688,7 +687,7 @@ h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: #9dffdc;
 }
 
 #main-content h6 {
@@ -702,7 +701,7 @@ h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: #9dffdc;
 }
 
 p {
@@ -834,9 +833,9 @@ footer a:hover {
     margin-top: 15px;
     font-size: 13px;
     line-height: 1;
-    color: #2879d0;
+    color: #28d079;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: #9dffdc;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -878,4 +877,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
