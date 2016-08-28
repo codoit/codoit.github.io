@@ -18,7 +18,7 @@ Where **Capitalism** failed to resolve conflicts between *profit* and *humanist*
 activities, making difficult to improve their objectives, **CoDoIt** tries a new
 approach with **stigmergy**.
 
-## What is Stigmergy ?
+# What is Stigmergy ?
 
 **Stigmergy** is a biological mechanism observed from ants and termites, where
 individuals act from traces left by other individuals.
@@ -30,7 +30,7 @@ This mechanism allows the construction of complex structures without coordinatio
 Every actions leave a trace, the more traces there is, the more actions there will
 be.
 
-### Hierarchical model
+## Hierarchical model
 
 When an organization is built on a *hierarchical model*, a **minority** controls the
 group and the objective.
@@ -40,7 +40,7 @@ group and the objective.
 This can lead to frustration from the lower layers, as they are just executing
 decisions made by a minority, without any influence on the decision.
 
-### Cooperative model
+## Cooperative model
 
 When an organization is built on a *cooperative model*, the **group** controls individuals
 and the objective.
@@ -53,7 +53,7 @@ or unanimity is reached.
 The decision will mainly be influenced by charismatic speakers, as they will rally
 more people.
 
-### Stigmergic model
+## Stigmergic model
 
 When an organization is built on a *stigmergic model*, each **individual** contributes
 and forks projects.
@@ -66,6 +66,10 @@ In this model:
  - each individual can contribute to any fork: flexibility in the group is improved
  - most promising forks gather more individuals: decision is a consequence, not a cause
  - each model can be simulated within a group of individuals: compatibility with other models is kept 
+
+# Our model
+
+Our model is built on a *stigmergic model* applied to a network of people.
 
 ## Key concepts
 
