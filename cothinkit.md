@@ -10,7 +10,7 @@ tagline: cooperative thinking
 
 **CoThinkIt** is a non-profit organization, which aims to build tools for thinking together.
 
-Our main goal is to help humans think, and search together. We want to federate
+Our main goal is to help humans to think, and search together. We want to federate
 the energy put into ideas, to improve the efficiency of projects birth.
 
 # How do we work
