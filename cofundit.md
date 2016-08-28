@@ -8,7 +8,7 @@ tagline: cooperative funding
 
 # CoFundIt
 
-**CoFundIt** is a non-profit organization who aims to build tools for funding projects together.
+**CoFundIt** is a non-profit organization which aims to build tools for funding projects together.
 
 Our main goal is to help humans do stuff, any stuff. We, at **CoFundIt**, believe in **stigmergy** and **collaboration**.
 
