@@ -10,7 +10,8 @@ tagline: cooperative funding
 
 **CoFundIt** is a non-profit organization which aims to build tools for funding projects together.
 
-Our main goal is to help humans do stuff, any stuff. We, at **CoFundIt**, believe in **stigmergy** and **collaboration**.
+Our main goal is to help humans do stuff, any stuff. We want to provide an easy
+way of making projects come to life.
 
 ## How do we work ?
 
