@@ -114,7 +114,7 @@ testing.
 Social pressure is a key for auto-rule application among members.
 Developing or using tools to ease comunication will ensure self-management.
 
-### Transparent
+### Transparency
 
 Freedom of activities improves idea efficiencies, reputation and the network expansion.
 
